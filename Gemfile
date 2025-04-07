@@ -9,4 +9,4 @@ gem "rake", "~> 13.0"
 
 gem 'minitest', '~> 5.25', '>= 5.25.5'
 
-gem 'minitest-reporters', '1.2.0'
+gem 'minitest-reporters'

@@ -23,7 +23,7 @@ PLATFORMS
 
 DEPENDENCIES
   minitest (~> 5.25, >= 5.25.5)
-  minitest-reporters (= 1.2.0)
+  minitest-reporters
   rake (~> 13.0)
   trayharrington_palindrome!
 
